@@ -8,7 +8,7 @@
 from matplotlib import pyplot as plt
 import math
 
-num = int(input())
+num = int(input("введите номер уравнения "))
 
 lst_x = []
 lst_y = []
